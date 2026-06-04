@@ -12,7 +12,7 @@ int main(){
     cin >> salary;
     salary = salary + salary * 25 /100;
     cout << endl  << setw(25) << "Age : " << age;
-    cout << endl << endl << endl <<  setw(50) << "Salary :" << salary;
+    cout << endl << endl << endl <<  setw(50) << "Updated Salary :" << salary;
 
     return 0;
 }
